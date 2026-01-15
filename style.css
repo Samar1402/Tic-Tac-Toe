@@ -5,9 +5,14 @@
     justify-content: center;
     margin-top: 20px;
 }
-.body{
-    background-color: #f9f9f9;
+body{
+    background-color: rgba(179, 223, 223, 0.894);
     font-family: Arial, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: rgb(20, 78, 1)
 }
 
 .row {
